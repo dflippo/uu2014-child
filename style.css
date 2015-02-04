@@ -1,0 +1,30 @@
+/*
+Theme Name:   UU2014-Child
+Theme URI: http://www.uuwp.org
+Description: The UU2014 Child theme is designed to allow users of UU2014 to more easily customize the theme safely without the risk of losing their changes when UU2014 is updated.
+Author: Dan Flippo
+Author URI: https://github.com/dflippo
+Template: uu-2014
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: accessibility-ready, black, blue, brown, gray, green, orange, pink, purple, red, silver, tan, white, yellow, dark, light, one-column, two-columns, left-sidebar, responsive-layout, custom-background, custom-colors, custom-header, custom-menu, editor-style, featured-image-header, featured-images, flexible-header, full-width-template, post-formats, rtl-language-support, theme-options, threaded-comments, translation-ready
+Text Domain:  uu2014-child
+Domain Path: /languages/
+GitHub Theme URI: https://github.com/dflippo/UU2014-Child
+GitHub Access Token: 583a75634f2038c873dbcb529fb4589b6197ed10
+
+UU2014-Child WordPress Theme, Copyright 2015 Dan Flippo
+UU2014-Child is distributed under the terms of the GNU GPL
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+/* 
+Theme users:
+Below is where you should add any custom CSS that you would like applied to your site.
+This CSS is applied after the CSS from the parent theme.  
+You should look at the style.css from the parent theme and use the same CSS selectors with your modifications.
+*/
+.site-footer { background-image: url(http://127.0.0.1:4001/wordpress/wp-content/themes/uu-2014/images/chalice-watermark-dark.gif); }
