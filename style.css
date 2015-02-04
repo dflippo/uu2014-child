@@ -27,4 +27,3 @@ Below is where you should add any custom CSS that you would like applied to your
 This CSS is applied after the CSS from the parent theme.  
 You should look at the style.css from the parent theme and use the same CSS selectors with your modifications.
 */
-.site-footer { background-image: url(http://127.0.0.1:4001/wordpress/wp-content/themes/uu-2014/images/chalice-watermark-dark.gif); }
